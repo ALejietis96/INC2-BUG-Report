@@ -1,5 +1,5 @@
 # INC2-BUG-Report
-<h2>Reported bugs during the sprint</h2>
+<h2>Reported bugs during bouth of the sprints</h2>
 
 These are all the bugs that I have processed, found and reported in JIRA based on templates and previous tickets in CerebrumHub
   
