@@ -1,4 +1,4 @@
-# Reported bugs during bouth of the sprints
+# Reported bugs during both of the sprints
 
 These are all the bugs that I have processed, found and reported in JIRA based on templates and previous tickets in CerebrumHub:
   
